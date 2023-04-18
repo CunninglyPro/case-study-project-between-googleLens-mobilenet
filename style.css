@@ -1,3 +1,7 @@
+body {
+    background: linear-gradient(to bottom right, gray, white);
+}
+
 .test_image_and_result {
     background-color: gray;
     padding: 20px;
