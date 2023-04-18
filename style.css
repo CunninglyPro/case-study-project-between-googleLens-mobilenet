@@ -2,6 +2,11 @@ body {
     background: linear-gradient(to bottom right, lightblue, white);
 }
 
+#google_lens_img {
+    width: 70px;
+    height: 70px;
+}
+
 .test_image_and_result {
     background-color: gray;
     padding: 20px;
