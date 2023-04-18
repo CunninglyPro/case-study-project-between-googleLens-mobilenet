@@ -1,0 +1,46 @@
+.test_image_and_result {
+    background-color: gray;
+    padding: 20px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+    height: 600px;
+    width: 1000px;
+    margin-left: 190px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+h4 {
+    color: white;
+}
+
+span {
+    color: red;
+    font-weight: bold;
+}
+
+b {
+    color: blueviolet;
+}
+
+img {
+    width: 300px;
+    height: 500px;
+    border-radius: 10px;
+}
+
+h5 {
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.mini_result {
+    margin-left: 230px;
+    margin-top: -480px;
+    text-align: center;
+}
+
+hr {
+    margin-left: 90px;
+    width: 630px;
+}
